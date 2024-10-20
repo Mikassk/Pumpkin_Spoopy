@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"verifica_status_jogo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"verifica_status_jogo",
+  "parent":{
+    "name":"Setup",
+    "path":"folders/Scripts/Setup.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

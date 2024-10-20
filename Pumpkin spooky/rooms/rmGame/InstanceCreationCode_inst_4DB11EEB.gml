@@ -1,0 +1,1 @@
+texto = rm_name;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"layer_create_depth",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"layer_create_depth",
+  "parent":{
+    "name":"Setup",
+    "path":"folders/Scripts/Setup.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
